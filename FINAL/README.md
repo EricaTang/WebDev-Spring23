@@ -1,6 +1,9 @@
-Here is my Github Pages live hosted site:
-[DE03 Photo Gallery](https://ericatang.github.io/final-gallery-site/)
+Live Demo of Site
+--
+Here is the link to my live hosted site: [DE03 Photo Gallery](https://ericatang.github.io/final-gallery-site/)
 
+Documentation
+--
 Documentation of my process
 - Generating initial ideas about the theme of the website – a digital gallery that serves as an extension to the photography section of my portfolio site
 - Drawing wireframes to further decide on the design and the navigation of the gallery
