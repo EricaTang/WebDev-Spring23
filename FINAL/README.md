@@ -1,5 +1,5 @@
-Below is my Github Pages live hosted site:
-[gallery](https://ericatang.github.io/final-gallery-site/)
+Here is my Github Pages live hosted site:
+[DE03 Photo Gallery](https://ericatang.github.io/final-gallery-site/)
 
 Documentation of my process
 - Generating initial ideas about the theme of the website – a digital gallery that serves as an extension to the photography section of my portfolio site
